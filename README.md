@@ -70,7 +70,7 @@ Brave is available for Windows 64-bit, Windows 32-bit, macOS and Linux. Also, Br
 **A:** Not remotely. I'm just some dude on the Internet (albeit an IT professional with 30+ years experience) trying to educate you and others about tracking and how you can help keep it to a minimum here on Mastodon/Fediverse and potentially elsewhere.
 
 **Sharing / Questions / Discussion / Pro Tips**
-- Sharing: Please do! Spread it all over Mastodon/Fediverse if you like. That's why it's here. All I ask is that you share the first post in the thread with the full .TXT file and don't just copy/paste the message text.
+- Sharing: Please do! Spread it all over Mastodon/Fediverse if you like. That's why it's here. All I ask is that you share the first post in the thread with the link to this README.md and don't just copy/paste the message text.
 - Questions / Discussion: Post them below.
 - Pro Tips: If you know of other ways to help prevent tracking via URLs, let us know! I know there are a ton of useful anti-tracking, ad-blocking, HTTPS-forceing extensions and add-ons, and I use many of them myself, but this post is primarily about cleaning up URLs before posting them to Mastodon/Fediverse.
 
